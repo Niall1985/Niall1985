@@ -6,7 +6,7 @@
 - 🤖 AI and Data Science Enthusiast
 - 🖥️ Familiar with Python, C, C++, HTML, CSS, Java, and a bit of Javascript
 - 🖥️ Currently learning Golang
-- 🌐 Reasonable Web Development experience
+- 🌐 Reasonable Web Dev experience
 
 ### 🛠️ Languages and Tools:
 <p>
