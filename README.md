@@ -4,7 +4,8 @@
 - 🎓 Second-year B.Tech student in Computer Science & Engineering
 - 🔥 Learning Machine Learning
 - 🤖 AI and Data Science Enthusiast
-- 🖥️ Familiar with Python, C, C++, HTML, CSS, Java, and a bit of Golang and Javascript
+- 🖥️ Familiar with Python, C, C++, HTML, CSS, Java, and a bit of Javascript
+- 🖥️ Currently learning Golang
 - 🌐 Web Development experience
 
 ### 🛠️ Languages and Tools:
