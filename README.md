@@ -27,6 +27,7 @@
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-019899?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-2E86C1?style=for-the-badge&logoColor=white"/>
   <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-1DA1F2?style=for-the-badge&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="Librosa" src="https://img.shields.io/badge/-Librosa-F39C12?style=for-the-badge&logoColor=white"/>
 </p>
