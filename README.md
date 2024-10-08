@@ -20,7 +20,7 @@
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-### 🧠 Frameworks and Libraries:
+### 🗂️ Frameworks and Libraries:
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
