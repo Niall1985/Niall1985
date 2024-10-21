@@ -28,7 +28,7 @@
   <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-1DA1F2?style=for-the-badge&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="Librosa" src="https://img.shields.io/badge/-Librosa-F39C12?style=for-the-badge&logoColor=white"/>
+<!--   <img alt="Librosa" src="https://img.shields.io/badge/-Librosa-F39C12?style=for-the-badge&logoColor=white"/> -->
 </p>
 
 I'm constantly learning and growing, and I can't wait to collaborate on exciting projects that push the boundaries of what's possible in AI and beyond!
