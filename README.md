@@ -31,20 +31,20 @@
 
 ---
 
-### 📦 My PyPi Package: Sentitoolkit
+### 📦 My PyPi Package: SentiToolKit
 
 | Title          | Stars          | Technologies                                                                                              |
 |----------------|----------------|-----------------------------------------------------------------------------------------------------------|
-| **Sentitoolkit** | ⭐ **4**    | ![PyPi](https://img.shields.io/badge/PyPi-3776AB?style=for-the-badge&logo=pypi&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| **SentiToolKit** | ⭐ **4**    | ![PyPi](https://img.shields.io/badge/PyPi-3776AB?style=for-the-badge&logo=pypi&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 
-**Sentitoolkit** is my custom sentiment analysis package on PyPi. It's designed to make text sentiment analysis straightforward and efficient. With Sentitoolkit, users can classify text into positive, negative, or neutral sentiment. This toolkit leverages pre-trained models and a comprehensive lexicon for reliable results.
+**SentiToolKit** is my custom sentiment analysis package on PyPi. It's designed to make text sentiment analysis straightforward and efficient. With SentiToolKit, users can classify text into positive, negative, or neutral sentiment. This toolkit leverages a pre-trained LSTM model and a comprehensive lexicon for reliable results.
 
 #### Key Features
 - 📊 Word, sentence, and paragraph-level sentiment analysis
 - ⚙️ Easy integration with Python projects
 - 💼 Lightweight and optimized for performance
 
-Find **Sentitoolkit** on [PyPi](https://pypi.org/) and GitHub!
+Find **SentiToolKit** on [PyPi](https://pypi.org/) and GitHub!
 
 ---
 
