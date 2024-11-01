@@ -35,8 +35,7 @@
 
 | Title          | Stars          | Technologies                                                                                              |
 |----------------|----------------|-----------------------------------------------------------------------------------------------------------|
-| **Sentitoolkit** | ⭐ **15**    | ![PyPi](https://img.shields.io/badge/PyPi-3776AB?style=for-the-badge&logo=pypi&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-|                |                | ![NLP](https://img.shields.io/badge/NLP-yellow?style=for-the-badge) ![CI](https://img.shields.io/badge/CI-CD-green?style=for-the-badge) ![Downloads](https://img.shields.io/badge/Downloads-3k-orange?style=for-the-badge) |
+| **Sentitoolkit** | ⭐ **4**    | ![PyPi](https://img.shields.io/badge/PyPi-3776AB?style=for-the-badge&logo=pypi&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 
 **Sentitoolkit** is my custom sentiment analysis package on PyPi. It's designed to make text sentiment analysis straightforward and efficient. With Sentitoolkit, users can classify text into positive, negative, or neutral sentiment. This toolkit leverages pre-trained models and a comprehensive lexicon for reliable results.
 
