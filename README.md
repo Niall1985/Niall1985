@@ -1,7 +1,3 @@
-Here's an updated version of your profile including a section about **Sentitoolkit**:
-
----
-
 # Hey there! 👋 I'm Niall
 
 ### 🚀 About Me
