@@ -1,3 +1,7 @@
+Here's an updated version of your profile including a section about **Sentitoolkit**:
+
+---
+
 # Hey there! 👋 I'm Niall
 
 ### 🚀 About Me
@@ -28,5 +32,15 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
+
+### 📦 My PyPi Package: Sentitoolkit
+**Sentitoolkit** is my custom sentiment analysis package on PyPi. It's designed to make text sentiment analysis straightforward and efficient. With Sentitoolkit, users can classify text into positive, negative, or neutral sentiment. This toolkit leverages pre-trained models and a comprehensive lexicon for reliable results.
+
+#### Key Features
+- 📊 Word, sentence, and paragraph-level sentiment analysis
+- ⚙️ Easy integration with Python projects
+- 💼 Lightweight and optimized for performance
+
+Find **Sentitoolkit** on [PyPi](https://pypi.org/) and GitHub!
 
 I'm constantly learning and growing, and I can't wait to collaborate on exciting projects that push the boundaries of what's possible in AI and beyond!
