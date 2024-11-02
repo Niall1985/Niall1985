@@ -50,7 +50,7 @@ Find **SentiToolKit** on [PyPi](https://pypi.org/) and GitHub!
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https://x.com/NiallD1985" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/niall-dcunha" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 I'm constantly learning and growing, and I can't wait to collaborate on exciting projects that push the boundaries of what's possible in AI and beyond!
