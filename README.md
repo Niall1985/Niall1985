@@ -35,7 +35,7 @@
 
 | Title          | Stars          | Technologies                                                                                              |
 |----------------|----------------|-----------------------------------------------------------------------------------------------------------|
-| **SentiToolKit** | ⭐ **4**    | ![PyPi](https://img.shields.io/badge/PyPi-3776AB?style=for-the-badge&logo=pypi&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| **SentiToolKit** | ⭐ **7**    | ![PyPi](https://img.shields.io/badge/PyPi-3776AB?style=for-the-badge&logo=pypi&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 
 **SentiToolKit** is my custom sentiment analysis package on PyPi. It's designed to make text sentiment analysis straightforward and efficient. With SentiToolKit, users can classify text into positive, negative, or neutral sentiment. This toolkit leverages a pre-trained LSTM model and a comprehensive lexicon for reliable results.
 
