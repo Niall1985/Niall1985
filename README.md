@@ -4,8 +4,9 @@
 - 🎓 Second-year B.Tech student in Computer Science & Engineering
 - 🔥 Learning Machine Learning
 - 🤖 AI and Data Science Enthusiast
-- 🖥️ Familiar with Python, C, HTML, CSS, Java, and a bit of JavaScript
-- 🖥️ Currently learning Golang
+- 🖥️ Familiar with Python, C, C++, HTML, CSS, and Java
+- 🖥️ Currently learning Golang and Javascript
+- 🖥️ Familiar with arduino programming
 - 🌐 Reasonable Web Dev experience
 
 ### 🛠️ Languages:
@@ -16,6 +17,8 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### 📚 Frameworks and Libraries:
@@ -27,6 +30,7 @@
   <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-1DA1F2?style=for-the-badge&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ---
@@ -35,7 +39,7 @@
 
 | Title          | Stars          | Technologies                                                                                              |
 |----------------|----------------|-----------------------------------------------------------------------------------------------------------|
-| **SentiToolKit** | ⭐ **7**    | ![PyPi](https://img.shields.io/badge/PyPi-3776AB?style=for-the-badge&logo=pypi&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| **SentiToolKit** | ⭐ **6**    | ![PyPi](https://img.shields.io/badge/PyPi-3776AB?style=for-the-badge&logo=pypi&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 
 **SentiToolKit** is my custom sentiment analysis package on PyPi. It's designed to make text sentiment analysis straightforward and efficient. With SentiToolKit, users can classify text into positive, negative, or neutral sentiment. This toolkit leverages a pre-trained LSTM model and a comprehensive lexicon for reliable results.
 
