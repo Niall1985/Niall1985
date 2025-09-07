@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Niall
 
 ### 🚀 About Me
-- 🎓 Second-year B.Tech student in Computer Science & Engineering
+- 🎓 Third-year B.Tech student in Computer Science & Engineering
 - 🔥 Learning Machine Learning
 - 🤖 AI and Data Science Enthusiast
 - 🖥️ Familiar with Python, C, C++, HTML, CSS, and Java
